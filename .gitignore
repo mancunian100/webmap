@@ -1,0 +1,12 @@
+# Mac OS
+.DS_Store
+
+# IntelliJ IDEA
+*.iml
+target
+.idea
+
+# image data
+src/static/imgs/
+src/static/sjtu_osm.xml
+
