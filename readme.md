@@ -1,7 +1,7 @@
 ## web map application
 
 - this is a web application based on a java web framework [spark](http://sparkjava.com/).
-- it is an modified project from [cs61b](https://sp18.datastructur.es/), thanks for the open access resources of this wonderful course.
+- it is an modified project from cs61b, thanks for the open access resources of this wonderful course.
 - the map data and images are obtained from the [open street map](https://www.openstreetmap.org), and there is another crawler script (in Python3) for downloading the map images.
 - features: 1. zooming in and zooming out the map; 2. search the site with the english name; 3. require the shortest path between two loactions;
 - usage:   
