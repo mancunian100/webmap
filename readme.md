@@ -14,3 +14,8 @@
    - lots of location names in open street map are missing, so it's usually failed to search a location with its name.
    - this application can only support a very small area as a map
    - the performance has room for improvement
+
+- design flow figure:
+    ![fogure](https://github.com/mancunian100/webmap/blob/master/Design_Flow.png?raw=true)
+
+
