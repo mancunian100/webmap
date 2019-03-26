@@ -16,6 +16,6 @@
    - the performance has room for improvement
 
 - design flow figure:
-    ![fogure](https://github.com/mancunian100/webmap/blob/master/Design_Flow.png?raw=true)
+    ![fogure](Design_Flow.png)
 
 
